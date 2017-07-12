@@ -1,0 +1,6 @@
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.UI.Services\bin\ApiSample.UI.Services.dll.config
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.UI.Services\bin\ApiSample.UI.Services.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.UI.Services\bin\ApiSample.UI.Services.pdb
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.UI.Services\obj\Debug\ApiSample.UI.Services.csprojResolveAssemblyReference.cache
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.UI.Services\obj\Debug\ApiSample.UI.Services.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.UI.Services\obj\Debug\ApiSample.UI.Services.pdb

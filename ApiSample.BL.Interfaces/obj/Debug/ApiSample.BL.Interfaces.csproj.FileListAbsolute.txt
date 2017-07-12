@@ -1,0 +1,8 @@
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Interfaces\bin\ApiSample.BL.Interfaces.dll.config
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Interfaces\bin\ApiSample.BL.Interfaces.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Interfaces\bin\ApiSample.BL.Interfaces.pdb
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Interfaces\obj\Debug\ApiSample.BL.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Interfaces\obj\Debug\ApiSample.BL.Interfaces.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Interfaces\obj\Debug\ApiSample.BL.Interfaces.pdb
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Interfaces\bin\ApiSample.Models.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Interfaces\bin\ApiSample.Models.pdb

@@ -1,0 +1,14 @@
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.BL.Services.dll.config
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.BL.Services.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.BL.Services.pdb
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\obj\Debug\ApiSample.BL.Services.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\obj\Debug\ApiSample.BL.Services.pdb
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.BL.Interfaces.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.DA.Interfaces.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.DA.Repositories.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.Models.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.BL.Interfaces.pdb
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.DA.Interfaces.pdb
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.DA.Repositories.pdb
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\bin\ApiSample.Models.pdb
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.BL.Services\obj\Debug\ApiSample.BL.Services.csprojResolveAssemblyReference.cache

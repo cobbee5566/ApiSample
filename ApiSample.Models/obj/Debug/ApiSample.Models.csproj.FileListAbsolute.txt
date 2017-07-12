@@ -1,0 +1,5 @@
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.Models\bin\ApiSample.Models.dll.config
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.Models\bin\ApiSample.Models.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.Models\bin\ApiSample.Models.pdb
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.Models\obj\Debug\ApiSample.Models.dll
+C:\Users\cObBeE\Documents\Visual Studio 2013\Projects\ApiSample\ApiSample.Models\obj\Debug\ApiSample.Models.pdb
